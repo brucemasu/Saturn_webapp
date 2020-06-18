@@ -58,7 +58,7 @@ ul.topnav li.right {
   /* 1行の高さ  */
   transition: .3s;
   /* なめらか変化 */
-  border: 2px solid black;
+  border: 10px solid black;
   /* 枠の指定 */
 
 }
